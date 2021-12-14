@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c08e3177-2d1d-47ff-ad45-c9c9631b5d06" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/.idea/PyThon_Function.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/data/myFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/data/newsArticle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day1/namespace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day1/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day1/step01_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day1/step02_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day1/step02_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day1/step02_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day1/step03_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day1/step04_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day1/step04_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day1/step05_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day1/step05_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day1/step05_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day1/step05_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day1/step05_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day1/step05_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day1/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day2/List_comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day2/step06.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day2/step06.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day2/step06.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day2/step06.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day2/step06.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day2/step06.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day2/step07.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day2/step07.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day2/step08.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day2/step08.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day2/step08.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day2/step09.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyThon_Function/day2/step09.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eclipse/workspace/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v14.15.4-win-x64/node_modules/npm/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pytham_ml/.idea/pytham_ml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pytham_ml/requirement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/python_ml_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21yv1uybr8Jc8wZu8Rbi3vIoZZG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c08e3177-2d1d-47ff-ad45-c9c9631b5d06" name="Changes" comment="" />
+      <created>1638925930097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638925930097</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
